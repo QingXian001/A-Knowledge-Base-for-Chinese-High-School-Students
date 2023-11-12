@@ -11,6 +11,10 @@
 a \over b
 开跟:
 \sqrt[2]{a^2}
+<<<<<<< Updated upstream
 简写-\sqrt{a^2}
 点乘: 
 \cdot
+=======
+简写-\sqrt{a^2}
+>>>>>>> Stashed changes
